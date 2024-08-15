@@ -1,0 +1,6 @@
+git+https://github.com/vpcreatz/pyrofork-adv.git
+TgCrypto
+motor
+aiofiles
+dnspython
+psutil
